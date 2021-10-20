@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1634735385 source:c:\users\julieta\desktop\laplace.julieta.p1.lab.1a\mascotas\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+
+1634731606 c:\users\julieta\desktop\laplace.julieta.p1.lab.1a\mascotas\fecha.h
+
+1634737948 source:c:\users\julieta\desktop\laplace.julieta.p1.lab.1a\mascotas\colores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"colores.h"
+
+1634737348 c:\users\julieta\desktop\laplace.julieta.p1.lab.1a\mascotas\colores.h
+
+1634739738 source:c:\users\julieta\desktop\laplace.julieta.p1.lab.1a\mascotas\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+
+1634737584 c:\users\julieta\desktop\laplace.julieta.p1.lab.1a\mascotas\servicio.h
+	"mascotas.h"
+
+1634737177 c:\users\julieta\desktop\laplace.julieta.p1.lab.1a\mascotas\mascotas.h
+	"colores.h"
+	"tipos.h"
+
+1634737749 c:\users\julieta\desktop\laplace.julieta.p1.lab.1a\mascotas\tipos.h
+
+1634740551 source:c:\users\julieta\desktop\laplace.julieta.p1.lab.1a\mascotas\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+	"mascotas.h"
+	"menu.h"
+
+1634740720 source:c:\users\julieta\desktop\laplace.julieta.p1.lab.1a\mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"mascotas.h"
+	"colores.h"
+	"tipos.h"
+	"servicio.h"
+	"trabajo.h"
+	"fecha.h"
+	"menu.h"
+
+1634736517 c:\users\julieta\desktop\laplace.julieta.p1.lab.1a\mascotas\trabajo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"mascotas.h"
+	"servicio.h"
+	"validaciones.h"
+
+1634737666 source:c:\users\julieta\desktop\laplace.julieta.p1.lab.1a\mascotas\validaciones.c
+	"validaciones.h"
+
+1634737775 c:\users\julieta\desktop\laplace.julieta.p1.lab.1a\mascotas\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"mascotas.h"
+	"servicio.h"
+
+1634737906 source:c:\users\julieta\desktop\laplace.julieta.p1.lab.1a\mascotas\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"mascotas.h"
+	"tipos.h"
+
+1634740189 source:c:\users\julieta\desktop\laplace.julieta.p1.lab.1a\mascotas\trabajo.c
+	"trabajo.h"
+
+1634740718 source:c:\users\julieta\desktop\laplace.julieta.p1.lab.1a\mascotas\menu.c
+	"menu.h"
+
+1634736723 c:\users\julieta\desktop\laplace.julieta.p1.lab.1a\mascotas\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
